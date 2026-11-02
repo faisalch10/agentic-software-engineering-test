@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+.venv/
+
+# Packaging / build artifacts
+build/
+dist/
+*.egg-info/
+
+
+.DS_Store
